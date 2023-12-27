@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <div>
   ---
 
-### :technologist: About Me :
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from US/India.
+### :technologist: About Me :.
+</div>
+<div>
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from US/India
 </div>
