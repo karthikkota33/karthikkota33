@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### :technologist: About Me :
 </div>
 <div>
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from US/India/New Zealand.
+  Passionate .NET developer with a knack for crafting robust and scalable solutions. I thrive in turning complex problems into elegant, user-friendly applications. My journey in software development has been shaped by a love for clean code, continuous learning, and a commitment to delivering high-quality software. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am from US/India/New Zealand.
 </div>
 <div>
   
@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-kota-08a26266)
 </div>
 <div>
----
 
 ### :hammer_and_wrench: Languages and Tools :
 </div>
