@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 ### :technologist: About Me :.
 </div>
 <div>
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from US/India
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from US/India/New Zealand.
 </div>
