@@ -39,4 +39,7 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Languages and Tools :
 </div>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+</div>
 
